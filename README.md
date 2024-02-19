@@ -1,9 +1,7 @@
-![After Submit](./images/Design-2024.jpg)
+![A Quick Demo](./public/static/images/10-library-books.jpg)
 
-# Tracking and Delivery
+# Library Management App
 
-Track and keep live record of packages in delivery including Maps and Locations. Suitable for trans logistics
+A library management system with a CMS. Keeps track of registered books in stock and users details.
 
-# Overview
-
----
+## Overview
